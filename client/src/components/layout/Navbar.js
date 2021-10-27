@@ -48,6 +48,6 @@ export const Navbar = ({title,icon}) => {
      icon:PropTypes.string,
  }
  Navbar.defaultProps={
-     title:"contact keeper",
+     title:"Your contacts",
 icon:"fas fa-id-card-alt "
 }
